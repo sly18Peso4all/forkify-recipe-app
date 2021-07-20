@@ -1,3 +1,3 @@
 # forkify-recipe-app
 
-Recipe Application with custom recipe upload
+Recipe display Application with custom recipe upload
